@@ -2,4 +2,4 @@
 #### This is a simple chat application for that is built using Flutter SDK. The database used in this simple project is Firebase. 
 #### More features are to be added in the future and more authentication and security are to be added.
 
-![](https://lh3.googleusercontent.com/vsWjnjG4XSqcE3tws7Y35VNv88pI8DwQBfzS-wqz88Br3a7hIyXYgUb9nSiE3UaTIZOFGkdZLQh-rsfvwkICyHn3ldP0v2D85m4Xg1uTXxqp9_y2s6nDo6RLehdbbov1e0SvEPQeYDP-sML7UlOeX7lhaqpG46lc8kifOJYE7meirhrcrb9sUubdyK3_OZ1Pge4jJQ957xaZTFxk6GQ4P6L6VE3x-UqtySdnP13DFd4_mNBr2Kps8GxNtlIUxhCx0KmqURW7E4RdhM2Yx2qL-H0UrK2OypSAsdKomscgQwnwkNvony6YsMT76CZKUj3FHwBKG5o46GVIth2VQGps1NEFUL7y7_x_huJuirF-vZSvceSNVduUnPhIXyVaQ6JXjJmSTCo-nizDEBWcAqcyFR_Oq3VJu0l1rFcDwIER7YjQb_-kVdBsxPkzX_sShyoujpMUg51_vJmHiYqdi2EfU7wwbHqbDIgCMDPtZ8XuRKF1NeHdb3N-5x5BEBap1BbuwE-mUncW6RlSyuu4uAO83eJG1sDrV4eQxlmLBu_HtuaBY9G5l8wA_AKCiH_SnPCxYD3U_9D4pkSzcZcew1JbM7FzsLl7kf1OeNt288fv0uHzB6JAH4ud4aGmAdUzICWp3zODx9lZyzEW8FaIXWRcqq2iAeJzUKFvNs_OFa9tFWlIrozIjEeSbPmMO519Sg=w475-h843-no?authuser=0)
+![alt text](https://i.imgur.com/krA95D2.png)
